@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-0": {
-      "Shopify\\": "src1/"
+      "Shopify\\": "src/"
     }
   }
 }
